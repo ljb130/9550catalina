@@ -6,7 +6,7 @@ catalina clover for xps15 9550 i7 1080p
 
 机型：DELL XPS15 9550
 
-BIOS：v1.13.2
+BIOS：v1.13.1          2020年1月份的那个版本
 
 CPU：Intel i7 6700HQ
 
