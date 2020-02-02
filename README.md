@@ -1,4 +1,4 @@
-# 9550catalina 15.3
+# dell xps15-9550catalina 15.3
 catalina clover for xps15 9550 i7 1080p 
 安装完成后能睿频，能fametime，风扇能够自动调速，触控板能完美驱动，键盘功能键，亮度调节都可以正常使用。
 
